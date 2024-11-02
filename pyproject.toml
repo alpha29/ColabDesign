@@ -7,6 +7,18 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+jax = "^0.4.35"
+numpy = "^1.26.4"
+biopython = "^1.84"
+dm-tree = "^0.1.8"
+absl-py = "^2.1.0"
+dm-haiku = "^0.0.13"
+matplotlib = "^3.9.2"
+ml-collections = "^0.1.1"
+joblib = "^1.4.2"
+pandas = "^2.2.3"
+optax = "^0.2.3"
+py3dmol = "^2.4.0"
 
 
 [tool.poetry.group.dev.dependencies]
